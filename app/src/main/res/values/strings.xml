@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">WordTraveler</string>
+    <string name="edit_message">Hello</string>
+    <string name="translate">Translate</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="speak_lang">
+        <item>English</item>
+        <item>Español</item>
+        <item>普通话</item>
+    </string-array>
+    <string-array name="text_eng">
+        <item>I Speak</item>
+        <item>Translate From</item>
+        <item>Translate To</item>
+        <item>Hello</item>
+        <item>Translate</item>
+        <item>Let\'s</item>
+        <item>Explore!</item>
+    </string-array>/
+    <string-array name="langs_eng">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>Mandarin</item>
+    </string-array>
+    <string-array name="text_span">
+        <item>Yo Hablo</item>
+        <item>Traducir Del</item>
+        <item>Traducir Al</item>
+        <item>Hola</item>
+        <item>Traducir</item>
+        <item>¡Vamos a</item>
+        <item>Explorar!</item>
+    </string-array>
+    <string-array name="langs_span">
+        <item>Inglés</item>
+        <item>Español</item>
+        <item>Mandarín</item>
+    </string-array>
+    <string-array name="text_man">
+        <item>我说</item>
+        <item>翻译从</item>
+        <item>翻译成</item>
+        <item>您好</item>
+        <item>翻译</item>
+        <item>让我们</item>
+        <item>来探索！</item>
+    </string-array>
+    <string-array name="langs_man">
+        <item>英语</item>
+        <item>西班牙语</item>
+        <item>普通话</item>
+    </string-array>
+
+    <string-array name="trans_lang_eng">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>Mandarin</item>
+    </string-array>
+    <string name="eng_speak">I Speak</string>
+    <string-array name="i_speak">
+        <item name="eng">I speak</item>
+        <item>Yo hablo</item>
+        <item>我说</item>
+    </string-array>
+
+</resources>
